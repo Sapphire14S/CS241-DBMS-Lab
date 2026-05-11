@@ -78,8 +78,7 @@ This repository contains practical assignments and implementations related to re
 ## Author
 
 **Shivank Kumar**  
-B.Tech — Computer Science and Engineering  
-Indian Institute of Information Technology Guwahati
+CSE Undergraduate • IIIT Guwahati
 
 ---
 
