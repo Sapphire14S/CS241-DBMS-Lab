@@ -75,31 +75,6 @@ This repository contains practical assignments and implementations related to re
 
 ---
 
-## Key Concepts Implemented
-
-- Relational Schema Design
-- SQL Query Formulation
-- Aggregation and Grouping
-- Recursive Query Logic
-- Trigger-Based Automation
-- Stored Functions
-- Database Connectivity using JDBC
-- Exception Handling in Database Applications
-- Credit and Grade Management Systems
-- View Creation and Management
-- Data Integrity Constraints
-- Relational Query Processing
-
----
-
-## Academic Information
-
-- **Course:** CS241 — Database Management Systems Lab
-- **Institute:** Indian Institute of Information Technology Guwahati
-- **Department:** Computer Science and Engineering
-
----
-
 ## Author
 
 **Shivank Kumar**  
