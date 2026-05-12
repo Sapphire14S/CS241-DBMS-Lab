@@ -34,16 +34,16 @@ This repository contains practical assignments and implementations related to re
 
 | Lab | Concepts Covered |
 |-----|------------------|
-| Lab&nbsp;01 | Introduction to C programming, variables and identifiers, arithmetic operations, average and area calculations, temperature conversion, digit manipulation, swapping variables |
-| Lab&nbsp;02 | Conditional statements, ASCII values, odd-even checking, divisibility tests, leap year detection, triangle classification, quadratic equations, salary computation |
-| Lab&nbsp;03 | Loops and iteration, multiplication tables, digit counting, integer reversal, prime numbers, Fibonacci series, mathematical series computation, pattern printing |
-| Lab&nbsp;04 | Prime numbers in ranges, Armstrong numbers, GCD computation, exponentiation, exponential series, switch-case programming, menu-driven calculator, bitwise operators |
-| Lab&nbsp;05 | Functions, recursive programming, prime and Armstrong number checking, Strong and Perfect numbers, pointer swapping, recursive factorial, Fibonacci and power functions |
-| Lab&nbsp;07 | Recursive algorithms, Tower of Hanoi, array manipulation, searching techniques, array merging, pointer arithmetic, second largest element, array insertion operations |
-| Lab&nbsp;08 | Dynamic memory allocation using `malloc`, `calloc`, and `realloc`, dynamic 1D/2D arrays, lower triangular matrices, string manipulation, menu-driven string operations |
-| Lab&nbsp;09 | Matrix multiplication, manual string operations without `string.h`, palindrome checking, word operations, dynamic string allocation, integer-to-word conversion |
-| Lab&nbsp;10 | Macros, structures, unions, nested structures, linked list traversal, pointers to structures, memory organization and structure alignment |
-| Lab&nbsp;11 | Advanced recursion, array insertion/deletion, subset checking, structure sorting, static variables, memory segments, stack and heap visualization |
+| Lab&nbsp;01 | Introduction to relational databases, student database schema, query implementation using C/Python/Java, basic data retrieval operations |
+| Lab&nbsp;02 | SQL relation creation, schema definition, table creation, inserting records, converting Lab 01 queries into SQL |
+| Lab&nbsp;03 | Aggregate SQL queries, grouping, ordering, joins, nested queries, average calculations, counting operations, filtering conditions |
+| Lab&nbsp;04 | Advanced SQL queries, views, WITH clause usage, subqueries, set operations, room/course analysis, faculty-course relationships |
+| Lab&nbsp;05 | Nested queries, views, joins, aggregation, recursive supervision database queries, hierarchical relationships |
+| Lab&nbsp;06 | JDBC connectivity with MySQL, Java database applications, database interaction using Java, exception handling, dynamic query execution |
+| Lab&nbsp;07 | SQL functions, stored procedures, grading systems, instructor-course analysis, database function implementation |
+| Lab&nbsp;08 | Database triggers, schema alteration, automatic credit calculation, grade management, trigger-based table updates, maintaining consistency constraints |
+
+
 ---
 
 ## Topics Covered
